@@ -4,7 +4,7 @@
 # http://www.boost.org/LICENSE_1_0.txt
 
 
-cmake_minimum_required( VERSION 3.3 )
+cmake_minimum_required( VERSION 3.24 )
 project(base_lib_test)
 
 message(STATUS "${CMAKE_PREFIX_PATH}")
